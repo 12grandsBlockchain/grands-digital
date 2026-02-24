@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Sohail amed
 
 💻 Passionate Web Developer  
 🌐 Building responsive, scalable, and user-friendly web applications  
